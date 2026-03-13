@@ -1,0 +1,9 @@
+id,language,exam,subject,chapter,topic,question,option_a,option_b,option_c,option_d,explanation
+q1,Bangla,HSC,Physics,Motion,Kinematics,What is the SI unit of velocity?,Meter,Second,Meter per second,Kilogram,Velocity is distance per unit time so SI unit is m/s.
+q2,Bangla,HSC,Chemistry,Atomic Structure,Electron Configuration,Which subshell is filled after 3p according to Aufbau principle?,3d,4s,4p,3s,According to Aufbau order 4s fills before 3d.
+q3,English,SSC,Mathematics,Algebra,Linear Equation,If 2x + 5 = 15 then x = ?,4,5,6,7,2x = 10 so x = 5.
+q4,English,SSC,Biology,Cell Biology,Cell Organelles,Which organelle is known as the powerhouse of the cell?,Nucleus,Ribosome,Mitochondria,Golgi body,Mitochondria produce ATP so they are called powerhouse.
+q5,Bangla,BCS,General Science,Chemical Reactions,Acid Base,Which gas is produced when acid reacts with carbonate?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,Acid and carbonate reactions produce CO2 gas.
+q6,English,HSC,Mathematics,Calculus,Differentiation,The derivative of x^2 is:,x,2x,x^3,2,Using power rule d/dx of x^n = n*x^(n-1), so derivative is 2x.
+q7,Bangla,HSC,Chemistry,Organic Chemistry,Hydrocarbons,What is the molecular formula of methane?,CH2,CH3,CH4,C2H6,Methane is the first alkane with formula CH4.
+q8,English,BCS,English Grammar,Parts of Speech,Noun,Identify the noun in the sentence: "Honesty is the best policy.",is,best,Honesty,policy,Honesty is an abstract noun.

@@ -59,6 +59,8 @@ Optional but recommended:
 
 - `explanation`
 
+Sample file included: `data/csv/sample-mcq-dataset.csv`
+
 ## Notes
 
 - If no dataset is indexed yet, frontend AJAX endpoints return dataset/filter errors.
