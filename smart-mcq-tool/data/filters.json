@@ -1,1 +1,39 @@
-{}
+{
+  "language": [
+    "Bangla",
+    "English"
+  ],
+  "exam": [
+    "BCS",
+    "HSC",
+    "SSC"
+  ],
+  "subject": [
+    "Biology",
+    "Chemistry",
+    "English Grammar",
+    "General Science",
+    "Mathematics",
+    "Physics"
+  ],
+  "chapter": [
+    "Algebra",
+    "Atomic Structure",
+    "Calculus",
+    "Cell Biology",
+    "Chemical Reactions",
+    "Motion",
+    "Organic Chemistry",
+    "Parts of Speech"
+  ],
+  "topic": [
+    "Acid Base",
+    "Cell Organelles",
+    "Differentiation",
+    "Electron Configuration",
+    "Hydrocarbons",
+    "Kinematics",
+    "Linear Equation",
+    "Noun"
+  ]
+}
