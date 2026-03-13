@@ -1,1 +1,70 @@
-{}
+{
+  "Bangla": {
+    "HSC": {
+      "Physics": {
+        "Motion": {
+          "Kinematics": [
+            "q1"
+          ]
+        }
+      },
+      "Chemistry": {
+        "Atomic Structure": {
+          "Electron Configuration": [
+            "q2"
+          ]
+        },
+        "Organic Chemistry": {
+          "Hydrocarbons": [
+            "q7"
+          ]
+        }
+      }
+    },
+    "BCS": {
+      "General Science": {
+        "Chemical Reactions": {
+          "Acid Base": [
+            "q5"
+          ]
+        }
+      }
+    }
+  },
+  "English": {
+    "SSC": {
+      "Mathematics": {
+        "Algebra": {
+          "Linear Equation": [
+            "q3"
+          ]
+        }
+      },
+      "Biology": {
+        "Cell Biology": {
+          "Cell Organelles": [
+            "q4"
+          ]
+        }
+      }
+    },
+    "HSC": {
+      "Mathematics": {
+        "Calculus": {
+          "Differentiation": [
+            "q6"
+          ]
+        }
+      }
+    },
+    "BCS": {
+      "English Grammar": {
+        "Parts of Speech": {
+          "Noun": [
+            "q8"
+          ]
+        }
+      }
+    }
+  }
+}

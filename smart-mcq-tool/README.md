@@ -6,6 +6,7 @@
 3. Upload the ZIP and activate **Smart MCQ Tool V3**.
 
 > This repository includes a root plugin bootstrap (`smart-mcq-tool.php`) so WordPress can detect the plugin when uploading the repo ZIP directly.
+> `smart-mcq-tool/smart-mcq-tool.php` is kept as a legacy loader (no plugin header) to reduce duplicate plugin-header conflicts.
 
 ## Shortcode
 Use this shortcode in any WordPress page/post:
@@ -57,6 +58,8 @@ At minimum, include:
 Optional but recommended:
 
 - `explanation`
+
+Sample file included: `data/csv/sample-mcq-dataset.csv`
 
 ## Notes
 
