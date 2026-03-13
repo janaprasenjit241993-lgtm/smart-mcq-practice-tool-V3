@@ -6,7 +6,7 @@
 3. Upload the ZIP and activate **Smart MCQ Tool V3**.
 
 > This repository includes a root plugin bootstrap (`smart-mcq-tool.php`) so WordPress can detect the plugin when uploading the repo ZIP directly.
-> If you zip only the `smart-mcq-tool/` folder, `smart-mcq-tool/smart-mcq-tool.php` is also a valid plugin entry header.
+> `smart-mcq-tool/smart-mcq-tool.php` is kept as a legacy loader (no plugin header) to reduce duplicate plugin-header conflicts.
 
 ## Shortcode
 Use this shortcode in any WordPress page/post:

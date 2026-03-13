@@ -1,10 +1,7 @@
 <?php
-/*
-Plugin Name: Smart MCQ Tool V3
-Description: High performance MCQ practice platform
-Version: 3.0.3
-Author: Smart MCQ
-*/
+
+// Legacy loader kept for backward compatibility when this folder is copied standalone.
+// Canonical plugin entry for repository ZIP installs: /smart-mcq-tool.php
 
 if (!defined('ABSPATH')) {
     exit;
